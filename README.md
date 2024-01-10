@@ -14,10 +14,7 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=allen-21&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
-
-<div align="center">  
-<a href="https://www.instagram.com/valter_o_allen/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-</div> 
+ 
  
 ### Languages and Platforms:
 
@@ -48,7 +45,7 @@
 ![PHP](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&labelColor=0D1117)&nbsp;
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br><p align="centre"><b>Profile Views</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{allen-21}/count.svg" /></p> 
 <br></div>
 
