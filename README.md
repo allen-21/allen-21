@@ -30,7 +30,7 @@ Exploring the world of software development, logic, and problem-solving.
 
 <div align="center">
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=allen-21&theme=github-compact&hide_border=true)](https://github.com/allen-21)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=allen-21&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 <img src="https://komarev.com/ghpvc/?username=allen-21&style=for-the-badge&color=00bfbf&label=PROFILE+VIEWS"/>
 
